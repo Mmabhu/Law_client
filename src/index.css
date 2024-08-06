@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url(./Components/images/body-bg.jpg);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+
+:root {
+  --base_font : 'Poppins', sans-serif;
+  --base_color: #415094;
+              --gradient_1: #7c32ff;
+              --gradient_2: #A235EC;
+              --gradient_3: #c738d8;
+              --scroll_color: #7e7172;
+              --text-color: #828bb2;
+              --text_white: #ffffff;
+              --bg_white: #ffffff;
+              --text_black: #000000;
+              --bg_black: #000000;
+              --border_color: #ECEEF4;
+              --input__bg: #ffffff;
+              --success: #51A351;
+  --success_with_opacity: #51A35123;
+          --warning: #E09079;
+              --danger: #FF6D68;
+  --danger_with_opacity: #FF6D6823;
+                  
+}
+
+
+

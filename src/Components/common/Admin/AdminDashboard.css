@@ -1,0 +1,21 @@
+nav .navhover:hover,nav .navhover:hover div,.css-1r9jet7 button:hover{
+    background-Color: #415094;
+    color: white;
+}
+
+nav .navhover:hover div svg{
+    transform: translateX(-4px) rotate(-20deg);
+}   
+
+nav .navhover{
+    background-color: transparent;
+}
+
+.Nav-bar>div>div,.Nav-bar nav{
+    background-color: transparent;
+}
+
+
+
+
+
